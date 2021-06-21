@@ -1,0 +1,4 @@
+Database :Mongodb atlas
+Images Stored : Cloudinary
+get the code run : npm install
+to run the code : nodemon app.js
